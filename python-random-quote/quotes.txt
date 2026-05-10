@@ -14,4 +14,4 @@ Design for failure
 Keep it logically awesome
 
 
-Arquivo de dicas
+Arquivo de dicas do dev
